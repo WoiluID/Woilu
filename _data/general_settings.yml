@@ -15,7 +15,7 @@ phone_number: "+62 851 5663 3114"
 copyright_text: "© 2023 Woilu. All rights reserved."
 
 google_analytics:
-  enable: false
+  enable: true
   key: "G-1B9DS3Z9XH"  # G-1B9DS3Z9XH
 
 google_map: |
@@ -24,13 +24,13 @@ google_map: |
 social_accounts:
   title: "Follow Us"
   links:
-    - url: "https://www.twitter.com/Mineversal_"
+    - url: "https://www.twitter.com/Woilu_"
       icon: "jam jam-twitter"
 
-    - url: "https://www.facebook.com/Mineversal"
+    - url: "https://www.facebook.com/WoiluID"
       icon: "jam jam-facebook"
 
-    - url: "https://www.instagram.com/mineversal"
+    - url: "https://www.instagram.com/Woilu"
       icon: "jam jam-instagram"
 
     - url: "#"
